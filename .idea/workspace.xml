@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c495b17f-96ac-4154-b810-93b2623d2b08" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testApi/testUserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testApi/testUserApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.reqUserApi.getListUser.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.testUserApi.getListUser.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.testUserApi.postListUser.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.testUserApi.postUser.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/intel/Desktop/TestAPI2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/intel/Desktop/APIAutomationFramework/src/main/java/org/Rizkika/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.reqUserApi.getListUser.executor": "Run",
+    "Gradle.testUserApi.getListUser.executor": "Run",
+    "Gradle.testUserApi.postListUser.executor": "Run",
+    "Gradle.testUserApi.postUser.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/intel/Desktop/TestAPI2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/intel/Desktop/APIAutomationFramework/src/main/java/org/Rizkika/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Gradle.testUserApi.postListUser">
     <configuration name="reqUserApi.getListUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -201,6 +200,7 @@
       <updated>1708412877303</updated>
       <workItem from="1708412878735" duration="6914000" />
       <workItem from="1708482738621" duration="6212000" />
+      <workItem from="1708502250079" duration="707000" />
     </task>
     <servers />
   </component>

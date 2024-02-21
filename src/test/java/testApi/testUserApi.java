@@ -46,7 +46,7 @@ public class testUserApi {
     }
 
     public void deleteListUser() {
-        int id = 5913838;
+        int id = 5913837;
 
         RestAssured.given().delete("https://gorest.co.in/public/v2/users", id)
                 .then().statusCode(204);
