@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.Rizkika'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation group: 'org.testng', name: 'testng', version: '7.8.0'
+    testImplementation 'junit:junit:4.13.1'
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '5.3.0'
+    implementation group: 'org.json', name: 'json', version: '20220924'
+    testImplementation group: 'io.rest-assured', name: 'json-schema-validator', version: '5.3.0'
+}
+
+test {
+
+     useTestNG()
+}
+
